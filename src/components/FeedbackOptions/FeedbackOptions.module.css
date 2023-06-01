@@ -1,0 +1,14 @@
+.Statistics {
+  display: flex;
+  gap: 15px;
+  align-items: first baseline;
+}
+
+.StatisticsItem {
+  align-items: first baseline;
+}
+.feedbackBtn {
+  width: 70px;
+  height: 35px;
+  cursor: pointer;
+}
